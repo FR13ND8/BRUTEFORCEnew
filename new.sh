@@ -12,40 +12,40 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
+echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" RISKI DARMAWAN  [FR13ND8]"$i"          |"
-echo $i" |"$pu" FACEBOOK :"$ku" Riski Darmawan"$i"                   |"
-echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
-echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
-echo $i" |"$pu" Contack WhatsApp :"$ku" 085835787069"$i"             |"
-echo $i" |"$pu" Contack Gmail :"$ku" dermawan0858@gmail.com"$i"      |"
+echo $i" |"$pu" AUTHOR :"$ku" RISKI DARMAWAN  [FR13ND8]"$i"          |"
+echo $i" |"$pu" SNAPCHAT :"$ku" Riski Darmawan"$i"                   |"
+echo $i" |"$pu" THANKS TO :"$cy"~ [MR.faisal] [MR.S∆MAx] [MR.B]"$i"  |"
+echo $i" |"$cy"            ~ [cyber] [%MR.S%] [hak]"$i" |"
+echo $i" |"$pu" Contack WhatsApp :"$ku" 966595451542"$i"             |"
+echo $i" |"$pu" Contack Gmail :"$ku" Failod28@gmail.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
-echo $i"────────────────────────────────    ─────"
-echo $i"|"$me" 1"$i" |"$cy" BRUTEFORCE FB PHP        "$i"|"$i"    |"$cy" B"$i" |"
-echo $i"|"$me" 2"$i" |"$cy" BRUTEFORCE FB BR1G4D3    "$i"|"$i"    |"$cy" E"$i" |"
-echo $i"|"$me" 3"$i" |"$cy" BRUTEFORCE FB iqbalz     "$i"|"$i"    |"$cy" N"$i" |"
-echo $i"|"$me" 4"$i" |"$cy" BRUTEFORCE FB MBF        "$i"|"$i"    |"$cy" G"$i" |"
-echo $i"|"$me" 5"$i" |"$cy" FACEBRUTE N1ght420       "$i"|"$i"    |"$cy" K"$i" |"
-echo $i"|"$me" 6"$i" |"$cy" BRUTEFORCE FB ( root )   "$i"|"$i"    |"$cy" E"$i" |"
-echo $i"────────────────────────────────"$i"    |"$cy" L"$i" |"
-echo $i"|"$me" 7"$i" |"$cy" YAHOO CLONING FACEBOOK   "$i"|"$i"    ─────"
-echo $i"|"$me" 8"$i" |"$cy" PROFILE GUARD FACEBOOK   "$i"|"$i"    |"$cy" F"$i" |"
-echo $i"|"$me" 9"$i" |"$cy" REPORT FACEBOOK WORK     "$i"|"$i"    |"$cy" A"$i" |"
-echo $i"|"$me"10"$i" |"$cy" AUTO REACTION FACEBOOK   "$i"|"$i"    |"$cy" C"$i" |"
-echo $i"|"$me"11"$i" |"$cy" INFORMATION FACEBOOK     "$i"|"$i"    |"$cy" E"$i" |"
-echo $i"|"$me"12"$i" |"$cy" BOT KOMEN FACEBOOK       "$i"|"$i"    |"$cy" B"$i" |"
-echo $i"|"$me"13"$i" |"$cy" AUTOLIKE FACEBOOK        "$i"|"$i"    |"$cy" O"$i" |"
-echo $i"────────────────────────────────"$i"    |"$cy" O"$i" |"
-echo $i"|"$me"14"$i" |"$cy" PHISING FACEBOOK 1       "$i"|"$i"    |"$cy" K"$i" |"
-echo $i"|"$me"15"$i" |"$cy" PHISING FACEBOOK 2       "$i"|"$i"    ─────"
-echo $i"|"$me"16"$i" |"$cy" PHISING FACEBOOK 3       "$i"|"$i"    |"$cy" K"$i" |"
-echo $i"|"$me"17"$i" |"$cy" PHISING FACEBOOK 4       "$i"|"$i"    |"$cy" E"$i" |"
-echo $i"────────────────────────────────"$i"    |"$cy" R"$i" |"
-echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU COEG  "$i"|"$i"    |"$cy" E"$i" |"
-echo $i"|"$me"19"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"$i"    |"$cy" N"$i" |"
-echo $i"────────────────────────────────    ─────"
+echo $i"────────────────────────────────    ─────"
+echo $i"|"$me" 1"$i" |"$cy" BRUTEFORCE FB PHP        "$i"|"$i"    |"$cy" B"$i" |"
+echo $i"|"$me" 2"$i" |"$cy" BRUTEFORCE FB BR1G4D3    "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"|"$me" 3"$i" |"$cy" BRUTEFORCE FB iqbalz     "$i"|"$i"    |"$cy" N"$i" |"
+echo $i"|"$me" 4"$i" |"$cy" BRUTEFORCE FB MBF        "$i"|"$i"    |"$cy" G"$i" |"
+echo $i"|"$me" 5"$i" |"$cy" FACEBRUTE N1ght420       "$i"|"$i"    |"$cy" K"$i" |"
+echo $i"|"$me" 6"$i" |"$cy" BRUTEFORCE FB ( root )   "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"────────────────────────────────"$i"    |"$cy" L"$i" |"
+echo $i"|"$me" 7"$i" |"$cy" YAHOO CLONING FACEBOOK   "$i"|"$i"    ─────"
+echo $i"|"$me" 8"$i" |"$cy" PROFILE GUARD FACEBOOK   "$i"|"$i"    |"$cy" F"$i" |"
+echo $i"|"$me" 9"$i" |"$cy" REPORT FACEBOOK SNAPCHAT     "$i"|"$i"    |"$cy" A"$i" |"
+echo $i"|"$me"10"$i" |"$cy" AUTO REACTION SNAPCHAT   "$i"|"$i"    |"$cy" C"$i" |"
+echo $i"|"$me"11"$i" |"$cy" INFORMATION SNAPCHAT     "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"|"$me"12"$i" |"$cy" BOT KOMEN SNAPCHAT       "$i"|"$i"    |"$cy" B"$i" |"
+echo $i"|"$me"13"$i" |"$cy" AUTOLIKE SNAPCHAT        "$i"|"$i"    |"$cy" O"$i" |"
+echo $i"────────────────────────────────"$i"    |"$cy" O"$i" |"
+echo $i"|"$me"14"$i" |"$cy" PHISING SNAPCHAT 1       "$i"|"$i"    |"$cy" K"$i" |"
+echo $i"|"$me"15"$i" |"$cy" PHISING SNAPCHAT 2       "$i"|"$i"    ─────"
+echo $i"|"$me"16"$i" |"$cy" PHISING SNAPCHAT 3       "$i"|"$i"    |"$cy" K"$i" |"
+echo $i"|"$me"17"$i" |"$cy" PHISING SNAPCHAT 4       "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"────────────────────────────────"$i"    |"$cy" R"$i" |"
+echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU COEG  "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"|"$me"19"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"$i"    |"$cy" N"$i" |"
+echo $i"────────────────────────────────    ─────"
 echo
 echo $me"┌==="$bi"["$i"FR13ND8"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
 echo $me"¦"
@@ -54,7 +54,7 @@ read -p"└──# " pil
 if [ $pil = 1 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "aa"|lolcat
 sleep 1
 git clone https://github.com/FR13ND8/fbbrute
 cd fbbrute
@@ -64,7 +64,7 @@ fi
 if [ $pil = 2 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "aa"|lolcat
 sleep 1
 git clone https://github.com/FR13ND8/Fb-Cracker-v.3
 cd Fb-Cracker-v.3
@@ -74,7 +74,7 @@ fi
 if [ $pil = 3 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "aa"|lolcat
 sleep 1
 git clone https://github.com/IqbalzNoobs/fb-brute
 cd fb-brute
@@ -84,7 +84,7 @@ fi
 if [ $pil = 4 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "aa"|lolcat
 sleep 1
 git clone https://github.com/FR13ND8/mbf
 cd mbf
@@ -94,7 +94,7 @@ fi
 if [ $pil = 5 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "aa"|lolcat
 sleep 1
 git clone https://github.com/N1ght420/FaceBrute
 cd FaceBrute
@@ -104,7 +104,7 @@ fi
 if [ $pil = 6 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "aa"|lolcat
 sleep 1
 git clone https://github.com/thelinuxchoice/facebash.git
 cd facebash
@@ -114,7 +114,7 @@ fi
 if [ $pil = 7 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "aa"|lolcat
 sleep 1
 git clone https://github.com/FR13ND8/EmailVuln
 cd EmailVuln
@@ -134,7 +134,7 @@ fi
 if [ $pil = 9 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "aa"|lolcat
 sleep 1
 git clone https://github.com/IlayTamvan/Report
 cd Report
@@ -145,7 +145,7 @@ fi
 if [ $pil = 10 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "aa"|lolcat
 sleep 1
 git clone https://github.com/AMVengeance/FB-React
 cd FB-React
@@ -155,7 +155,7 @@ fi
 if [ $pil = 11 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "aa"|lolcat
 sleep 1
 git clone https://github.com/FR13ND8/InfoFB
 cd InfoFB
@@ -166,7 +166,7 @@ fi
 if [ $pil = 12 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "aa"|lolcat
 sleep 1
 pip2 install mechanize
 git clone https://github.com/Senitopeng/Botkomena.git
@@ -177,7 +177,7 @@ fi
 if [ $pil = 13 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "aa"|lolcat
 sleep 1
 git clone https://github.com/FR13ND8/autolike
 cd autolike
@@ -187,7 +187,7 @@ fi
 if [ $pil = 14 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "aa"|lolcat
 sleep 1
 git clone https://github.com/thelinuxchoice/shellphish.git
 cd shellphish
@@ -207,7 +207,7 @@ fi
 if [ $pil = 16 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "aa"|lolcat
 sleep 1
 git clone https://github.com/UndeadSec/SocialFish.git
 cd SocialFish
@@ -219,7 +219,7 @@ fi
 if [ $pil = 17 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "aa"|lolcat
 sleep 1
 https://github.com/evait-security/weeman.git
 chmod +x *
@@ -243,7 +243,7 @@ pkg install php
 pkg install ruby cowsay toilet figlet
 pkg install neofetch
 pkg install nano
-figlet -f slant " S U K S E S "|lolcat
+figlet -f slant " ff "|lolcat
 fi
 
 if [ $pil = 19 ]
@@ -255,8 +255,8 @@ echo $cy"Terima Kasih Sudah Pakai Tool Saya"
 sleep 2
 echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
 sleep 2
-echo $ku"WhatsApp :"$i" 085835787069"
-echo $ku"Facebook :"$i" Riski Darmawan"
+echo $ku"WhatsApp :"$i" 966595451542"
+echo $ku"snapchat :"$i" fail.91"
 sleep 2
 echo $pur">> Thanks Yang Sudah Support Saya <<"
 exit
