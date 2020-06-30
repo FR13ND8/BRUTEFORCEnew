@@ -1,0 +1,1 @@
+http://new.sh
